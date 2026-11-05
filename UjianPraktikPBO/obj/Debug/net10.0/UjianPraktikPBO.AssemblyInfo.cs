@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UjianPraktikPBO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a4f7caccc0e6710a6e4e1be1ac530cb1d66b9e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("UjianPraktikPBO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UjianPraktikPBO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
